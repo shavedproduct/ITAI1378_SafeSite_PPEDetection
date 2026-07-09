@@ -1,0 +1,14 @@
+names:
+- '------------------------------'
+- 20250731-PPE2286 - v1 2025-07-26 2-24pm
+- Roboflow is an end-to-end computer vision platform that helps you
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: construction-ppe-qw7qk
+  url: https://universe.roboflow.com/yami-dzhfx/construction-ppe-qw7qk/dataset/1
+  version: 1
+  workspace: yami-dzhfx
+test: ../test/images
+train: ../train/images
+val: ../valid/images
