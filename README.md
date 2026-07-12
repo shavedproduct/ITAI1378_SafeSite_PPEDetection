@@ -1,6 +1,6 @@
 # SafeSite: Automated PPE Detection
 
-**Team Members:** [Your Name], [Group Member 2], [Group Member 3]  
+**Team Members:** [ian,peter,troy]  
 **Course:** ITAI 1378
 **Project Tier:** Tier 1  
 
